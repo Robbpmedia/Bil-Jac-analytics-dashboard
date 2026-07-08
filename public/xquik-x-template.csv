@@ -1,0 +1,3 @@
+source,post_id,published_at,text,url,likes,comments,shares,views,engagement_rate
+xquik,example-post-1,2026-07-08T12:00:00Z,"Reviewed X/Twitter post from Xquik",https://x.com/example/status/1,42,7,5,1200,0.045
+xquik,example-post-2,2026-07-08T18:30:00Z,"Second reviewed X/Twitter post from Xquik",https://x.com/example/status/2,31,3,4,980,0.039
